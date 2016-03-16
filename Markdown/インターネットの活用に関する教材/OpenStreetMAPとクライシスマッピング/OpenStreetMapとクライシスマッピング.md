@@ -4,8 +4,7 @@
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 [利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 
-[メニューへもどる]
-[メニューへもどる]:OpenStreetMapとクライシスマッピング.md#menu
+
 **Menu**
 -----
 **OpenStreetMap**
@@ -36,12 +35,14 @@
 * アカウントを登録していれば、地図の編集が自由にできる
 
 * 作成した地理情報データを自由に利用することができる
-> OpenStreetMap Japan https://openstreetmap.jp　を参考に作成
+> OpenStreetMap Japan https://openstreetmap.jp　を参考に作成  
 
+[▲メニューへもどる]
+[メニューへもどる]:OpenStreetMapとクライシスマッピング.md#menu
 ## 基本操作
 [OpenStreetMap]にアクセスする。
 
-![osm](pic/pic_1.png)
+![osm](pic/pic_1.png)  
 (左図)  
 ①　地名や住所による検索ができる  
 ②　データの編集やエクスポートができる  
@@ -59,102 +60,112 @@
 
 * 作成した地理情報データを自由に利用することができる
 * Google Mapsなどを用いたOSMの編集は、できない（ソースにする媒体の利用規約などを参照して利用）
+  
+[▲メニューへもどる]
 
 ## アカウントの取得
 OSMの編集にはアカウントが必要となる。
 
-![osm](pic/pic_2.png)
+![osm](pic/pic_2.png)  
 [OpenStreetMap]にアクセスし、ユーザー登録をクリックする
-登録したメールアドレスにメールが届いているのを確認する
+登録したメールアドレスにメールが届いているのを確認する  
+
+[▲メニューへもどる]
 
 ## <a name = OSMの編集>OSMの編集
-![osm](pic/pic_3.png)
+![osm](pic/pic_3.png)  
 [OpenStreetMap]にアクセスし、任意の地域を拡大する。
 編集をクリックし、IDを利用する。
 
-![osm](pic/pic_4.png)
+![osm](pic/pic_4.png)  
 背景にBingマップが表示されている。このまま編集することも可能。
 今回は、カスタムから地理院タイルを読み込む。
 地理院タイルのURLやタグについては、　http://wiki.openstreetmap.org/wiki/JA:GSImapsを参照する。
 
 ### 建物の追加
-![osm](pic/pic_5.png)
+![osm](pic/pic_5.png)  
 エリアをクリックし、建物にそってクリックでポリゴンを描画、ダブルクリックでポリゴンを閉じる。
 左の画面からポリゴンの情報を選択する（タグ付け）。
 すべてのタグから、+マークをクリックし、Sourceを入力する（今回は地理院地図のタグ）。
 
 ### ポイントとラインの追加
-![osm](pic/pic_6.png)
+![osm](pic/pic_6.png)  
 ポリゴンと同じ方法でポイントやラインを作成する。
 sourceについて、背景画像から判断できない場合は、現地調査などで取得する。
 
 ### 編集の保存とアップロード
-![osm](pic/pic_7.png)
+![osm](pic/pic_7.png)  
 「保存」をクリックし変更セットのコメントを入力する。（英文が望ましい。）
-OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了する。数分後にアップロードが反映される。
+OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了する。数分後にアップロードが反映される。  
+
+[▲メニューへもどる]
 
 ## <a name = エディタ（JOSM）の使い方>エディタ（JOSM）の使い方
 ※　ブラウザで編集しない場合
 
-![osm](pic/pic_8.png)
+![osm](pic/pic_8.png)  
 https://josm.openstreetmap.de/wiki/Ja%3AWikiStart　にアクセスしJOSMのインストーラをダウンロードする。ダウンロードしたzipを解凍し、.exeファイルをインストールする。
 
 ### JOSMの設定
-![osm](pic/pic_9.png)
+![osm](pic/pic_9.png)  
 編集＞設定をクリックし、地球アイコンから、OSMのアカウント情報を入力する。
 
 ### 編集範囲のダウンロード
-![osm](pic/pic_10.png)
+![osm](pic/pic_10.png)  
 ファイル＞OSMからのダウンロードをクリックする。　　
 編集したい範囲をドラックし、ダウンロードをクリックする   
 ※地図の移動は右クリックを使用する。
 
-![osm](pic/pic_11.png)
+![osm](pic/pic_11.png)  
 画像から背景地図を追加する。
 追加された背景画像は、右上のウインドウに表示される。
 
-![osm](pic/pic_12.png)
+![osm](pic/pic_12.png)  
 地物を追加するアイコンをクリックし、ポリゴンを描画する。  
 追加ボタンからsourceなどタグを追加し、okをクリックする。  
 ラインやポイントは描画後にダブルクリック。  
 ポリゴンはポリゴンを閉じる。  
 削除は選択アイコンで選択し、Deleteを押す。  
 
-![osm](pic/pic_13.png)
+![osm](pic/pic_13.png)  
 編集＞データをアップロードクリックする。
 変更セットのコメントや、データソースを入力し、アップロードを行う。
 
-![osm](pic/pic_14.png)
+![osm](pic/pic_14.png)  
 数分後にアップロードした地物が追加される。
 
-![osm](pic/pic_15.png)
+![osm](pic/pic_15.png)  
 編集＞名前をつけて保存　をクリックし作業ファイルを保存する。
 再開する場合は編集＞開く　で保存したファイルを選択する。
 
 ### GPSデータを読み込む
-![osm](pic/pic_16.png)
+![osm](pic/pic_16.png)  
 ファイル＞開く　をクリックし.gpxファイルを選択する。
 GPSデータが表示されるため、編集などに利用することができる。
-ファイル＞新規レイヤーを作成　をクリックするとレイヤの作成ができる。
+ファイル＞新規レイヤーを作成　をクリックするとレイヤの作成ができる。  
+
+[▲メニューへもどる]
 
 ## データを利用する
-![osm](pic/pic_17.png)
+![osm](pic/pic_17.png)  
 データをダウンロードしたい範囲を選択し、Exportをクリックする。  
 QGISを開き、ベクタ＞OpenStreetMap＞XMLからトポロジをインポートするをクリックする。  
 出力先のファイル名などを入力し、OKをクリックする。
 
-![osm](pic/pic_18.png)
+![osm](pic/pic_18.png)  
 QGISを開き、ベクタ＞OpenStreetMap＞SpatiaLite形式にトポロジをインポートするをクリックする。
 インポートしたいデータを選択し、OKをクリックする。
 
-![osm](pic/pic_19.png)
+![osm](pic/pic_19.png)  
 http://overpass-turbo.eu/ にアクセスし、データをダウンロードする。
 ウィザードをクリックし、 emergency=defibrillator を入力し、AED情報を抜き出す。
 エクスポートをクリックし、KMLをクリックとデータが保存できる。
 
 データを利用する際は、Map data
 © OpenStreetMap contributors　などのクレジットが必要。
-詳細は、http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ　を確認する。
+詳細は、http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ　を確認する。  
+
+[▲メニューへもどる]
 
 ##　クライシスマッピングとは？
 
@@ -165,36 +176,40 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 * 地図は世界中のOpenStreetMapの利用者（マッパー）などによるボランティアによって行われる
 
 ## クライシスマッピングの歴史
-![osm](pic/pic_20.png)
-![osm](pic/pic_21.png)
+![osm](pic/pic_20.png)  
+![osm](pic/pic_21.png)  
+
+[▲メニューへもどる]
 
 ## <a name= OSMを利用したクライシスマッピング>OSMを利用したクライシスマッピング
 
 ### OSM Tasking Managerの利用
 OSM Tasking Managerは、OSM人道支援チーム "Humanitarian OSM Team, HOT"が、クライシスマッピングの支援ツールとして提供しているもの。
-![osm](pic/pic_22.png)
+![osm](pic/pic_22.png)  
 [OSM Tasking Manager]にアクセスし、タスクを確認する。
 検索や並び替えで、作業するタスクを選択する。
 ※タスクによっては、初心者の参加が望ましくないものもあるため注意する。
 [OSM Tasking Manager]:http://tasks.hotosm.org/
 
-![osm](pic/pic_23.png)
+![osm](pic/pic_23.png)  
 「解説」からマッピングの概要を把握し、「インストラクション」をクリックする。マップする対象と変更セットの内容を確認する。
 Project Specific Mapping Notesなどその他の説明も確認し、「参加」をクリックする。
 ※画面右上をクリックし、OSMにログインしておく。
 
-![osm](pic/pic_24.png)
+![osm](pic/pic_24.png)  
 凡例をもとに編集するエリアを選択し、「マッピング開始」をクリックする。
 
-![osm](pic/pic_25.png)
+![osm](pic/pic_25.png)  
 「エディタ（ID）」をクリックすると、OSM画面が起動する。
 >このタスクの詳しい説明については、
 https://www.youtube.com/watch?v=WjNawjN53lw&feature=youtu.be　を参照する。
 
-![osm](pic/pic_26.png)
+![osm](pic/pic_26.png)  
 タスクに従って、建物をトレースし、「保存」をクリックする。
 編集セットのコメントにタスクの内容が自動で入力されていることを確認し、「SAVE」をクリックする。
 
-![osm](pic/pic_27.png)
+![osm](pic/pic_27.png)  
 編集が終了したら、「アンロック」をクリックする。
-選択した地域内のタスクが完了している場合は、「完了としてマーク」をクリックする。
+選択した地域内のタスクが完了している場合は、「完了としてマーク」をクリックする。  
+
+[▲メニューへもどる]
