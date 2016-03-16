@@ -4,6 +4,8 @@
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 [利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 
+[メニューへもどる]
+[メニューへもどる]:OpenStreetMapとクライシスマッピング.md#menu
 **Menu**
 -----
 **OpenStreetMap**
