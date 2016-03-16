@@ -2,44 +2,44 @@
 本教材は、Googleマイマップを用いて空間データを表示、作成、検索などの手法について解説しています。Googleマイマップの機能を利用し、ルート検索などを行います。
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[利用規約]:
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 **Menu**
 JR柏駅―東京大学柏キャンパス間のアクセスマップを作成する。
 
-**スライド教材**
+**スライド教材**  
 スライドのダウンロードは[こちら]
-[こちら]:
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/Google マイマップの活用/Google マイマップの活用.pptx
 --------
 
-![Google](pic/pic_1.png)
+![Google](pic/pic_1.png)  
 [Google maps]にアクセスしGoogleマップを開く。  
 検索ボックスの左にあるメニューボタンからマイマップを選択する。  
 ※Googleアカウントでログインしておく。
 [Google maps]:<https://www.google.co.jp/maps>
 
-![Google](pic/pic_2.png)
+![Google](pic/pic_2.png)  
 地図を作成をクリックすると新たにウインドウが立ち上がり、マイマップの編集画面が表示される。  
 無題の地図をクリックし、地図のタイトルと説明を入力する。
 
-![Google](pic/pic_3.png)
+![Google](pic/pic_3.png)  
 ラインの作画ボタンをクリックし、運転ルートの追加をクリックする。  
 無題のレイヤをクリックし、レイヤ名を変更しておく。
 
-![Google](pic/pic_4.png)
+![Google](pic/pic_4.png)  
 AにJR柏駅、Bに東京大学柏図書館を入力する（予測変換で表示された住所を利用する）。  
 A,Bを入力すると自動でルートが生成される。  
 Bのレイヤを移動し、微調整をしておく。  
 
-![Google](pic/pic_5.png)
+![Google](pic/pic_5.png)  
 レイヤの右にあるボタンから、このレイヤを削除を選択する。
 余分なレイヤを削除し、地図を整える。
 
-![Google](pic/pic_6.png)
+![Google](pic/pic_6.png)  
 「共有」から、地図の共有設定を確認しておく。  
 サイトで埋め込む場合は、一般公開を選択する。
 
-![Google](pic/pic_7.png)
+![Google](pic/pic_7.png)  
 KMLにエクスポートを選択すると、データを保存することができる。
 
-![Google](pic/pic_8.png)
+![Google](pic/pic_8.png)  
 保存した地図をGoogle Earth Proで表示
