@@ -5,7 +5,7 @@
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
 
-[利用規約]:
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 **Menu**
 ------
 * [利用するデータをダウンロードする](#利用するデータをダウンロードする)
@@ -18,14 +18,13 @@
 **使用データ**
 
 * [越前市オープンデータ] 越前市防災安全課　一次避難場所（風水害）、浸水想定区域（風水害）のデータを加工し、利用。
-(http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html )
-
 
 [越前市オープンデータ]:http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/QGISとLeafLetの連携/QGISとLeafLetの連携.pptx
+
 ----------
 
 ## 利用するデータをダウンロードする
@@ -34,7 +33,7 @@
 [オープンデータ越前！]:浸水想定区域と一次避難所のshapeファイルをダウンロードする。
 
 [▲メニューへもどる]  
-[▲メニューへもどる]：
+[▲メニューへもどる]：QGISとLeafLetの連携.md#menu
 
 ## QGISでスタイルを調整する
 ![QGISで調整](pic/pic_1.png)
