@@ -2,6 +2,7 @@
 本教材は、「OpenStreetMap(OSM)とクライシスマッピング」の実習用教材です。OSMの閲覧方法や地図データの作成とOSMを利用したクライシスマッピングについての解説を行っています。
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 
 **Menu1 OpenStreetMap**
 * [OpenStreetMapとは？](#OpenStreetMapとは？)
@@ -20,7 +21,7 @@
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/OpenStreetMAPとクライシスマッピング/OpenStreetMapとクライシスマッピング.pptx
 
 ----------
 
