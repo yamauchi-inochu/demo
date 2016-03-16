@@ -38,7 +38,7 @@
 > OpenStreetMap Japan https://openstreetmap.jp　を参考に作成  
 
 [▲メニューへもどる]
-[メニューへもどる]:OpenStreetMapとクライシスマッピング.md#menu
+[▲メニューへもどる]:OpenStreetMapとクライシスマッピング.md#menu
 ## 基本操作
 [OpenStreetMap]にアクセスする。
 
