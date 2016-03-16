@@ -4,8 +4,8 @@
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[スライド教材]:
-[利用規約]:
+[スライド教材]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/czml入門/czml入門.pptx
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 
 **Menu**
 * [CZMLとは?](#CZMLとは?)
@@ -192,3 +192,6 @@ A列に秒（何秒で移動するか）をC列に経度、E列に緯度、G列�
 
 ![表示](pic/pic_9.png)
 タイマーの速度を変更すると、アイコンの動く速度が変化する。
+
+[▲メニューへもどる]
+[▲メニューへもどる]:czml入門.md#mennu
