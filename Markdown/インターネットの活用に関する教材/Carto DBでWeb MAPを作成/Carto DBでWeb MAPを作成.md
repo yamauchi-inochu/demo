@@ -24,7 +24,7 @@
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%95%99%E6%9D%90/Carto%20DB%E3%81%A7Web%20MAP%E3%82%92%E4%BD%9C%E6%88%90/Carto%20DB%E3%81%A7Web%20MAP%E3%82%92%E4%BD%9C%E6%88%90.md#menu
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%95%99%E6%9D%90/Carto%20DB%E3%81%A7Web%20MAP%E3%82%92%E4%BD%9C%E6%88%90/Carto%20DB%E3%81%A7Web%20MAP%E3%82%92%E4%BD%9C%E6%88%90.pptx
 --------
 
 ## CartoDBとは？
@@ -35,7 +35,7 @@
 - 時系列データのなど表現が多様
 
 [▲メニューへもどる]  
-[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/Carto DBでWeb MAPを作成/Carto DBでWeb MAPを作成.md#menu
+[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%95%99%E6%9D%90/Carto%20DB%E3%81%A7Web%20MAP%E3%82%92%E4%BD%9C%E6%88%90/Carto%20DB%E3%81%A7Web%20MAP%E3%82%92%E4%BD%9C%E6%88%90.md#menu
 
 ## アカウント取得
 ![アカウント取得](pic/pic_1.png)  
