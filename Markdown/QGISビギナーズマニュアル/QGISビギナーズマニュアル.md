@@ -37,7 +37,7 @@
 >( http://qgis.org/ja/site/about/index.html を参考に作成 )
 
 [▲メニューへもどる]  
-[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/QGISビギナーズマニュアル/QGISビギナーズマニュアル.md#menu
+[▲メニューへもどる]:QGISビギナーズマニュアル.md#menu
 
 ## インストールする
 [QGIS]の公式ホームページから、QGISをインストールする。
