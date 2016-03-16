@@ -32,7 +32,7 @@
 - 球体のため、世界規模のデータの表示に適している
 - 時系列データの表示も可能  
 [▲メニューへもどる]  
-[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/Cesiumによるデータの可視化/Cesiumによるデータの可視化.md#menu
+[▲メニューへもどる]:Cesiumによるデータの可視化.md#menu
 
 ## Cesiumを体験する
 ![Cesiumを体験する](pic/pic_1.png)  
