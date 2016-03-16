@@ -7,7 +7,7 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[利用規約]:
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 
 **Menu**
 ------
@@ -23,7 +23,9 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.pptx
+
+
 ----------
 
 ## <a name=GitHubとは？>GitHubとは？
@@ -35,19 +37,19 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 >塩谷啓,紫竹佑騎,原一成,平木聡（2014）『Web制作者のためのGitHubの教科書 チームの効率を最大化する共同開発ツール』を参考に作成
 
 [▲メニューへもどる]  
-[▲メニューへもどる]：
+[▲メニューへもどる]：https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.md#menu
 
 ## <a name =GitHubアカウントの取得>GitHubアカウントの取得
 
-![アカウント](pic/pic_1.png)
+![アカウント](pic/pic_1.png)  
 [GitHubのサイト]にアクセスしてアカウントを作成する。
 ページ右上の「Sign up」をクリックする。
 [GitHubのサイト]:https://github.com
 
-![アカウント](pic/pic_2.png)
+![アカウント](pic/pic_2.png)  
 Free を選択し、「Finish sign up 」をクリックする。
 
-![アカウント](pic/pic_3.png)
+![アカウント](pic/pic_3.png)  
 GitHubアカウントが作成できた。登録したメールアドレス宛に、確認メールが届いているためそれを開き、「Verify email address」をクリックする。
 
 [▲メニューへもどる]  
@@ -79,54 +81,54 @@ GitHubの操作中に良く出ている言葉を以下にまとめている。
 [▲メニューへもどる]  
 ## クライアントソフトのインストール
 
-![クライアントソフト](pic/pic_4.png)
+![クライアントソフト](pic/pic_4.png)  
 https://desktop.github.comにアクセスし、クライアントソフトをインストールする。
 クライアントソフトは、他にもあるため、環境や作業感に合わせて使いやすいものを選択する。
 
-![クライアントソフト](pic/pic_5.png)
+![クライアントソフト](pic/pic_5.png)  
 インストールしたクライアントソフトを起動するとこのような画面が表示される。
 ※指定した場所にGitHubフォルダーが作成され、そのフォルダーの変更内容がクライアントソフトと連動する。
 
 [▲メニューへもどる]  
 
 ## <a name=Repositoryの作成>Repositoryの作成
-![リポジトリ](pic/pic_6.png)
+![リポジトリ](pic/pic_6.png)  
 +ボタンをクリックし、「New repository」を選択する。
 
-![リポジトリ](pic/pic_7.png)
+![リポジトリ](pic/pic_7.png)  
 Repository nameを入力し、READMEをチェックし、「Create Repository」をクリックする。
 echizenとい名前のrepositoryが新規に作成された。
 
 [▲メニューへもどる]  
 
 ## <a name=gh-pagesを作成する>gh-pagesを作成する
-![gh-pagesを作成する](pic/pic_8.png)
+![gh-pagesを作成する](pic/pic_8.png)  
 Repositoryの設定（Settings）をクリックし、gh-pagesのブランチを作成する
 ※ gh-pages　Webサイトとして表示できる機能　
 
-![gh-pagesを作成する](pic/pic_9.png)
+![gh-pagesを作成する](pic/pic_9.png)  
 「Launch automatic page generator」 をクリックし、
 「Continue to layouts」 をクリックする。
 
-![gh-pagesを作成する](pic/pic_10.png)
+![gh-pagesを作成する](pic/pic_10.png)  
 「Publish page」をクリックすると、新規にgh-pagesというブランチができている。
 
 [▲メニューへもどる]  
 
 ## repositoryをCloneする
-![Cloneする](pic/pic_11.png)
+![Cloneする](pic/pic_11.png)  
 「Clone In Desktop」 をクリックし、ローカルに複製する。
 ※repositoryの編集は、ローカルだけでなくweb上でも編集が可能。
-
-![Cloneする](pic/pic_12.png)
+ 
+![Cloneする](pic/pic_12.png)  
 クライアントソフトが自動的に立ち上がるので、複製するディレクトリを選択する。
 ※　自動で立ち上がらない場合は、手動でクライアントソフトを立ち上げる。
 
-![Cloneする](pic/pic_13.png)
+![Cloneする](pic/pic_13.png)  
 クライアントソフトに追加されたことを確認し、masterからgh-pagesに切り替える。
 切り替えに伴って、ローカルに複製したrepository（フォルダ）の内容が変更することを確認する。
 
-![Cloneする](pic/pic_14.png)
+![Cloneする](pic/pic_14.png)  
 ①ローカルに複製したリポジトリが表示される  
 ②リポジトリの編集が表示される  
 ③リポジトリの内の編集の詳細が表示される  　　④Webのリポジトリに繁栄させるため、ローカルの変更内容をタイトルと詳細として記入する（コミット）  
@@ -135,26 +137,26 @@ Repositoryの設定（Settings）をクリックし、gh-pagesのブランチを
 ### repositoryの編集
 練習として、画像ファイルをリポジトリに追加し、webで表示する。
 （ローカル環境での編集について解説している。）
-![repositoryの編集](pic/pic_15.png)
+![repositoryの編集](pic/pic_15.png)  
 リポジトリを複製したディレクトリを開き、中身を確認する。
 
-![repositoryの編集](pic/pic_16.png)
+![repositoryの編集](pic/pic_16.png)  
 画像を追加したことが、クライアントソフトに表示される。
 コミットメッセージを入力し、 「Commit to gh-pages」をクリックし、 「Sync」 をクリックする。
 
-![repositoryの編集](pic/pic_17.png)
+![repositoryの編集](pic/pic_17.png)  
 「Sync」が完了すると、デフォルトの画面が表示される。
 （Webのリポジトリにローカルの編集内容が反映されている）
 
-![repositoryの編集](pic/pic_18.png)
+![repositoryの編集](pic/pic_18.png)  
 GitHubで作成したリポジトリにアクセスし、画像が追加されていることを確認する
 
-![repositoryの編集](pic/pic_19.png)
+![repositoryの編集](pic/pic_19.png)  
 「Settings」をクリックし、アドレスをコピーし、画像のタイトルと拡張子をつけ、Webブラウザで検索する。
 ```
  http://（ユーザー名）.github.io/echizen/echizen_logo.png
 ```
-![repositoryの編集](pic/pic_20.png)
+![repositoryの編集](pic/pic_20.png)  
 Webに画像がアップロードされていることを確認できた
 ※　gh-pagesを利用した、WebでのGISデータの公開などについては、別ページで解説している。
 
@@ -162,32 +164,32 @@ Webに画像がアップロードされていることを確認できた
 
 ## <a name = Pull requestによる教材の変更>Pull requestによる教材の変更
 
-![Pull request](pic/pic_21.png)
+![Pull request](pic/pic_21.png)  
 GitHubで教材ページのリポジトリを開く。
 「Fork」をクリックすると自分のリポジトリにコピーされる。
 自分のリポジトリに戻り、Forkしたリポジトリを開き、branch名を入力し、編集用のbranchを作成する。
 
-![Pull request](pic/pic_22.png)
+![Pull request](pic/pic_22.png)  
 作成したbranch内の.mdファイルを開き、編集を行う。
 今回は、ベクタの読み込みに一文追加している。
 編集終了後に、Commit changes をクリックする。
 
-![Pull request](pic/pic_23.png)
+![Pull request](pic/pic_23.png)  
 編集用のリポジトリに戻り、Compare & Pull requestをクリックする。
 編集内容を入力し、Create pull request をクリックする。
 
-![Pull request](pic/pic_24.png)
+![Pull request](pic/pic_24.png)  
 管理者によってPull requestがマージされると右のような画面が表示される。
 
 [▲メニューへもどる]  
 
 ## <a name = Issueによる投稿>Issueによる投稿
 
-![Pull request](pic/pic_25.png)
+![Pull request](pic/pic_25.png)  
 教材ページのリポジトリへいきNew issueをクリックし、issueを立ち上げる。
 質問や要望などを入力し、submit new issueをクリックする。
 
-![Pull request](pic/pic_26.png)
+![Pull request](pic/pic_26.png)  
 質問や要望への返答は右の画面のように表示される。
 issueでは、画像を送ることも可能。
 
