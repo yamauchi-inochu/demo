@@ -21,7 +21,7 @@
 
 [越前市オープンデータ]:http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html
 
-**スライド教材**
+**スライド教材**  
 スライドのダウンロードは[こちら]
 [こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/QGISとLeafLetの連携/QGISとLeafLetの連携.pptx
 
