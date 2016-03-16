@@ -37,7 +37,7 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 >塩谷啓,紫竹佑騎,原一成,平木聡（2014）『Web制作者のためのGitHubの教科書 チームの効率を最大化する共同開発ツール』を参考に作成
 
 [▲メニューへもどる]  
-[▲メニューへもどる]：https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.md#menu
+[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.md#menu
 
 ## <a name =GitHubアカウントの取得>GitHubアカウントの取得
 
