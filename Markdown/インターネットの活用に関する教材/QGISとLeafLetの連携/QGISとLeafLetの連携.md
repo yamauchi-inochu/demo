@@ -33,10 +33,10 @@
 [オープンデータ越前！]:浸水想定区域と一次避難所のshapeファイルをダウンロードする。
 
 [▲メニューへもどる]  
-[▲メニューへもどる]：QGISとLeafLetの連携.md#menu
+[▲メニューへもどる]:QGISとLeafLetの連携.md#menu
 
 ## QGISでスタイルを調整する
-![QGISで調整](pic/pic_1.png)
+![QGISで調整](pic/pic_1.png)  
 ダウンロードしたファイルを読み込みスタイルを調整する。  
 ※　想定浸水区域は、3つのファイルをマージ後、想定浸水深（SAFIELD001）でディゾルブしておく
 
@@ -44,12 +44,12 @@
 
 ## プラグインを読み込む
 プラグインの管理とインストールから、「qgis2leaf」を検索し、インストールする。
-![QGISで調整](pic/pic_2.png)
+![QGISで調整](pic/pic_2.png)  
 
 [▲メニューへもどる]  
 
 ## qgis2leafを起動する
-![qgis2leaf](pic/pic_3.png)
+![qgis2leaf](pic/pic_3.png)  
 Web(W)>qgis2leaf>Exports a QGIS Project to a working leaflet webmap  
 ① Get Layers をクリックしてレイヤを追加する。  
 ② Basemapを選択する（複数選択できる）。  
@@ -58,7 +58,7 @@ Web(W)>qgis2leaf>Exports a QGIS Project to a working leaflet webmap
 ⑤ OK をクリックする。  
 ※レイヤ名が日本語だとエラーがでる。
 
-![qgis2leaf](pic/pic_4.png)
+![qgis2leaf](pic/pic_4.png)  
 ローカルで、htmlファイルを開き中身を確認する。  
 Basemapの追加、レイヤの透過、凡例の日本語化など、マップを調整する。
 
@@ -67,30 +67,30 @@ Basemapの追加、レイヤの透過、凡例の日本語化など、マップ�
 ## index.htmlを編集する
 
 #### 凡例の変更
-![凡例の変更](pic/pic_5.png)
+![凡例の変更](pic/pic_5.png)  
 index.htmlをテキストエディタで開き、文を書き換える
 
 #### ベースマップ（地理院地図）の追加
-![ベースマップ](pic/pic_6.png)
+![ベースマップ](pic/pic_6.png)  
 index.htmlを開き文を付け加える。
 
-![ベースマップ](pic/pic_7.png)
+![ベースマップ](pic/pic_7.png)  
 index.htmlを開き、編集内容を確認する。
 
 #### ポリゴンを透過する
-![ベースマップ](pic/pic_8.png)
+![ベースマップ](pic/pic_8.png)  
 fillOpacity: ‘1.0’を0.7に変更し、weight:を0に変更する。
 これにより、ある程度透過性を持っていて、境界線のないポリゴンが表示できる。
 
 [▲メニューへもどる]
 
 ## GitHubでwebにアップロードする
-![アップロード](pic/pic_9.png)
+![アップロード](pic/pic_9.png)  
 リポジトリを作成後、ローカルにcloneする。  
 ローカルにcloneしたリポジトリ（フォルダ）に、qgis2leafで出力したフォルダを移動する。  
 クライアントソフトを起動し、Webにアップロードする。
 
-![アップロード](pic/pic_10.png)
+![アップロード](pic/pic_10.png)  
 アップロードしたファイルをブラウザで開くと、マップが表示される。
 
 ```
