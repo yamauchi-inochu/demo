@@ -2,7 +2,7 @@
 本教材は、GRASS入門者向けの実習用教材です。GRASSの機能やデータの読み込みなどについて解説しています。
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[利用規約]:
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
 
 **Menu**
 ----------
@@ -29,7 +29,7 @@
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Slide/GRASSビギナーズマニュアル.pptx
 ----------
 
 
@@ -39,7 +39,7 @@
 - QGISのプラグインからGRASSの機能を呼び出すことができる。
 
 [▲メニューへもどる]  
-[▲メニューへもどる]：
+[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/GRASSビギナーズマニュア/GRASSビギナーズマニュアル.md#menu
 
 ## インストール
 ![インストール](pic/pic_1.png)
