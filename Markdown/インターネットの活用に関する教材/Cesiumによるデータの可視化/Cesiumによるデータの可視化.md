@@ -3,8 +3,8 @@
 本教材は、Cesiumを用いて空間データを表示する手法について解説しています。Cesiumの機能の呼び出しやKMLデータの表示などを行います。Cesiumの表示には、GitHubを用いてインターネットで公開される状態で行います。CZMLについての解説は、[CZML入門]の教材を参照ください。
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[利用規約]:
-[CZML入門]:
+[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
+[CZML入門]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/czml入門/czml入門.md
 **Menu**
 ------
 * [Cesiumとは](#Cesiumとは)
@@ -17,14 +17,13 @@
 **使用データ**
 
 * [越前市オープンデータ] 越前市防災安全課　一次避難場所（風水害）、浸水想定区域（風水害）のデータを加工し、利用。
-(http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html )
 
 
 [越前市オープンデータ]:http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:
+[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%95%99%E6%9D%90/Cesium%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%AF%E8%A6%96%E5%8C%96/Cesium%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%8F%AF%E8%A6%96%E5%8C%96.pptx
 --------
 
 ## Cesiumとは
@@ -33,7 +32,7 @@
 - 球体のため、世界規模のデータの表示に適している
 - 時系列データの表示も可能
 [▲メニューへもどる]  
-[▲メニューへもどる]：
+[▲メニューへもどる]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/Cesiumによるデータの可視化/Cesiumによるデータの可視化.md#menu
 
 ## Cesiumを体験する
 ![Cesiumを体験する](pic/pic_1.png)
