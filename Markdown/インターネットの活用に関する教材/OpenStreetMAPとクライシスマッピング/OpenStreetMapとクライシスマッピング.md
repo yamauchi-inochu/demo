@@ -35,7 +35,7 @@
 * アカウントを登録していれば、地図の編集が自由にできる
 
 * 作成した地理情報データを自由に利用することができる
-> OpenStreetMap Japan https://openstreetmap.jp/を参考に作成  
+> OpenStreetMap Japan https://openstreetmap.jp/ を参考に作成  
 
 [▲メニューへもどる]
 [▲メニューへもどる]:OpenStreetMapとクライシスマッピング.md#menu
