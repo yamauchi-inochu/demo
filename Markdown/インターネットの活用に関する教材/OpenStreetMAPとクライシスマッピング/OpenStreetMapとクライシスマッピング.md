@@ -23,6 +23,10 @@
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。  
 
+**使用データ**  
+
+本教材は、OpenStreetMapのキャプチャー画像を利用しています（ © OpenStreetMap Contributors）。
+
 **スライド教材**
 スライドのダウンロードは[こちら]
 [こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/OpenStreetMAPとクライシスマッピング/OpenStreetMapとクライシスマッピング.pptx
