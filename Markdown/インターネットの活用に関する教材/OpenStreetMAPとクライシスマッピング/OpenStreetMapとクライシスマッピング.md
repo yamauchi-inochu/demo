@@ -56,7 +56,7 @@
 ## 編集のルール
 * ポイント、ライン、ポリゴンで地物を表現する
 * 地物の属性をタグとして付与する
-  >タグの詳細は、http://wiki.openstreetmap.org/wiki/JA:Map_Features  を参照
+  >タグの詳細は、http://wiki.openstreetmap.org/wiki/JA:Map_Features/  を参照
 
 * 作成した地理情報データを自由に利用することができる
 * Google Mapsなどを用いたOSMの編集は、できない（ソースにする媒体の利用規約などを参照して利用）
