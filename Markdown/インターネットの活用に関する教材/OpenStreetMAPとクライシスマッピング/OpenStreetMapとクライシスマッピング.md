@@ -104,7 +104,7 @@ OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了す�
 ※　ブラウザで編集しない場合
 
 ![osm](pic/pic_8.png)  
-https://josm.openstreetmap.de/wiki/Ja%3AWikiStart/にアクセスしJOSMのインストーラをダウンロードする。ダウンロードしたzipを解凍し、.exeファイルをインストールする。
+https://josm.openstreetmap.de/wiki/Ja%3AWikiStart/ にアクセスしJOSMのインストーラをダウンロードする。ダウンロードしたzipを解凍し、.exeファイルをインストールする。
 
 ### JOSMの設定
 ![osm](pic/pic_9.png)  
