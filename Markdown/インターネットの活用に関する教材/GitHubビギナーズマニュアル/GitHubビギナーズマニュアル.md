@@ -18,7 +18,7 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 - [Repositoryの作成](#Repositoryの作成)
 - [gh-pagesを作成する](#gh-pagesを作成する)
 - [Repositoryをcloneする](#Repositoryをcloneする)
-- [Pull requestによる教材の変更](#Pull requestによる教材の変更)
+- [Pull_requestによる教材の変更](#Pull_requestによる教材の変更)
 - [Issueによる投稿](#Issueによる投稿)
 
 **スライド教材**
@@ -162,7 +162,7 @@ Webに画像がアップロードされていることを確認できた
 
 [▲メニューへもどる]  
 
-## <a name = Pull requestによる教材の変更>Pull requestによる教材の変更
+## <a name = Pull_requestによる教材の変更>Pull_requestによる教材の変更
 
 ![Pull request](pic/pic_21.png)  
 GitHubで教材ページのリポジトリを開く。
