@@ -179,7 +179,11 @@ GitHubで教材ページのリポジトリを開く。
 編集内容を入力し、Create pull request をクリックする。
 
 ![Pull request](pic/pic_24.png)  
-管理者によってPull requestがマージされると右のような画面が表示される。
+管理者によってPull requestがマージされると右のような画面が表示される。  
+ForkしたリポジトリをSettingsから削除する。
+
+※ forkしたリポジトリは、fork元のリポジトリの変更は反映されないため、GitコマンドかSourcetreeの追跡機能を利用することを推奨。
+もしくは、本教材と同じく、編集ごとにForkしたリポジトリを削除する。
 
 [▲メニューへもどる]  
 
