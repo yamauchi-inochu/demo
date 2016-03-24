@@ -244,10 +244,9 @@ CartoDBなどで簡単にWebGISとして表現できる。
 [▲メニューへもどる]  
 
 ## 参考ページの紹介
-![sanko1](pic/pic44.png)  
-
-
+- QGISについて詳しく勉強したい方　QGISユーザーガイド
 ①http://qgis.org/ja/site/about/index.html  
+- QGISとPythonについて詳しく勉強したい方　 PyQGIS 開発者用 Cookbook
 ②http://docs.qgis.org/2.2/ja/docs/pyqgis_developer_cookbook/  
 
 [▲メニューへもどる]  
