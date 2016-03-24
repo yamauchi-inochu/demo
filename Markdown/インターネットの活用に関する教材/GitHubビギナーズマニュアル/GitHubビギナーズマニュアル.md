@@ -180,7 +180,7 @@ GitHubで教材ページのリポジトリを開く。
 
 ![Pull request](pic/pic_24.png)  
 管理者によってPull requestがマージされると右のような画面が表示される。  
-ForkしたリポジトリをSettingsから削除する。
+
 
 ※ forkしたリポジトリは、fork元のリポジトリの変更は反映されないため、GitコマンドかSourcetreeの追跡機能を利用することを推奨（[Sourcetreeビギナーズマニュアル]を参照）。
 もしくは、本教材と同じく、編集ごとにForkしたリポジトリを削除する。　　
