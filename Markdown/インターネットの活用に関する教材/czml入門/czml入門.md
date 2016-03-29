@@ -1,11 +1,11 @@
 # CZML入門
 本教材は、Cesiumで利用できるCZMLファイルの利用手法について解説したものです。cesium viewerを用いて、データの表示、時間によるアニメーションなどを行います。  
-コードの解説は[スライド教材]を参照。
+コードの解説は[スライド教材]を参照して下さい。
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
 [スライド教材]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/czml入門/czml入門.pptx
-[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
+[利用規約]:../../../../master/利用規約.md
 
 **Menu**
 -------
