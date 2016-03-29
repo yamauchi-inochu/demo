@@ -29,7 +29,7 @@
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/OpenStreetMAPとクライシスマッピング/OpenStreetMapとクライシスマッピング.pptx
+[こちら]:../../../../../raw/master/Markdown/インターネットの活用に関する教材/OpenStreetMAPとクライシスマッピング/OpenStreetMapとクライシスマッピング.pptx
 
 ----------
 
