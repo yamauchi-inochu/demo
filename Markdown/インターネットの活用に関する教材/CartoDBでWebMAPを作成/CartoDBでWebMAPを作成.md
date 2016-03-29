@@ -22,7 +22,7 @@
 
 **スライド教材**  
 スライドのダウンロードは[こちら]
-[こちら]:../../../../raw/master/Markdown/CartoDBでWebMAPを作成/CartoDBでWebMAPを作成.pptx
+[こちら]:../../../../../raw/master/Markdown/インターネットの活用に関する教材/CartoDBでWebMAPを作成/CartoDBでWebMAPを作成.pptx
 --------
 
 ## CartoDBとは？
