@@ -23,7 +23,7 @@
 
 **スライド教材**  
 スライドのダウンロードは[こちら]
-[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/Cesiumによるデータの可視化/Cesiumによるデータの可視化.pptx
+[こちら]:../../../../raw/master/Markdown/インターネットの活用に関する教材/Cesiumによるデータの可視化/Cesiumによるデータの可視化.pptx
 --------
 
 ## Cesiumとは
