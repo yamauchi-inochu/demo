@@ -27,7 +27,7 @@
 
 本教材は、OpenStreetMapのキャプチャー画像を利用しています（ © OpenStreetMap Contributors）。
 
-**スライド教材**
+**スライド教材**  
 スライドのダウンロードは[こちら]
 [こちら]:../../../../../raw/master/Markdown/インターネットの活用に関する教材/OpenStreetMAPとクライシスマッピング/OpenStreetMapとクライシスマッピング.pptx
 
