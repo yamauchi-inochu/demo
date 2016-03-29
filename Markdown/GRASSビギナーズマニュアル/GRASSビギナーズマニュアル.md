@@ -29,7 +29,7 @@
 
 **スライド教材**  
 スライドのダウンロードは[こちら]
-[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Slide/GRASSビギナーズマニュアル.pptx
+[こちら]:../../../../raw/master/Markdown/GRASSビギナーズマニュアル/GRASSビギナーズマニュアル.pptx
 ----------
 
 
