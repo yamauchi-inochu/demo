@@ -3,8 +3,8 @@
 本教材は、Cesiumを用いて空間データを表示する手法について解説しています。Cesiumの機能の呼び出しやKMLデータの表示などを行います。Cesiumの表示には、GitHubを用いてインターネットで公開される状態で行います。CZMLについての解説は、[CZML入門]の教材を参照ください。
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[利用規約]:https://github.com/yamauchi-inochu/demo/blob/master/利用規約.md
-[CZML入門]:https://github.com/yamauchi-inochu/demo/blob/master/Markdown/インターネットの活用に関する教材/czml入門/czml入門.md
+[利用規約]:../../../../master/利用規約.md
+[CZML入門]:../../インターネットの活用に関する教材/czml入門/czml入門.md
 **Menu**
 ------
 * [Cesiumとは](#Cesiumとは)
