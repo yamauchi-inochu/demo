@@ -20,7 +20,7 @@
 [越前市オープンデータ]:http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html
 
 
-**スライド教材**
+**スライド教材**  
 スライドのダウンロードは[こちら]
 [こちら]:../../../../../raw/master/Markdown/CartoDBでWebMAPを作成/CartoDBでWebMAPを作成.pptx
 --------
