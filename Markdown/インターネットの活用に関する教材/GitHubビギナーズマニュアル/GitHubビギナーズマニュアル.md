@@ -23,7 +23,7 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.pptx
+[こちら]:../../../../../raw/master/Markdown/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.pptx
 
 
 ----------
