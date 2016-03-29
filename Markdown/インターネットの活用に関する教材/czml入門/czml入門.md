@@ -4,7 +4,7 @@
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 
-[スライド教材]:https://github.com/yamauchi-inochu/demo/raw/master/Markdown/インターネットの活用に関する教材/czml入門/czml入門.pptx
+[スライド教材]:../../../../../raw/master/Markdown/インターネットの活用に関する教材/czml入門/czml入門.pptx
 [利用規約]:../../../../master/利用規約.md
 
 **Menu**
