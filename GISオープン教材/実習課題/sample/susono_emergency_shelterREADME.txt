@@ -1,1 +1,0 @@
-このデータは、裾野市オープンデータ（http://www.city.susono.shizuoka.jp/ma/organization/susono-open-data.php）広域避難地・市指定避難所データ（出典:[広域避難地・市指定避難所]、裾野市、クリエイティブ・コモンズ・ライセンス 表示 2.1（http://creativecommons.org/licenses/by/2.1/jp/） ））を教材用に加工（緯度経度などを削除）し作成したものである。
