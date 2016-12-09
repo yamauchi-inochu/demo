@@ -218,7 +218,7 @@ Cartoなどで簡単にWebGISとして表現できる。
 ![プラグインの例](pic/Qpic16.png)  
 
 ### タイルレイヤプラグイン
-　プラグインの管理とインストールからTileLayerPluginをインストールし、地理院タイルをまとめた[.tsvファイル](../実習/sample/gsi-tiles.zip)をダウンロードし、web>タイルレイヤプラグインから、プラグインを起動し、.tsvが入っているファイルを指定するとタイルが表示できる。地理院タイルを使用する際は、[地理院タイルの利用規約](http://maps.gsi.go.jp/help/use.html)に従ってください。
+　プラグインの管理とインストールからTileLayerPluginをインストールし、地理院タイルをまとめた[.tsvファイル](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/実習/sample/gsi-tiles.zip)をダウンロードし、web>タイルレイヤプラグインから、プラグインを起動し、.tsvが入っているファイルを指定するとタイルが表示できる。地理院タイルを使用する際は、[地理院タイルの利用規約](http://maps.gsi.go.jp/help/use.html)に従ってください。
 
 ※タイルレイヤプラグインを使う際は、先にデータを読み込んだ状態でプラグインからタイルを読み込む。  
 ※本教材で用意したtsvファイルは、minoura氏 が、[GitHub Gist](https://gist.github.com/minorua/7654132) で公開している.tsvを加工し作成したものです。  
