@@ -22,7 +22,7 @@
 * [地図のレイアウト](#地図のレイアウト)
 * [参考ページの紹介](#参考ページの紹介)
 
-**使用データ**
+**使用データ**  
 国土交通省国土政策局「[国土数値情報]（東京都　地価公示データ）」
 
 [福知山豪雨災害聞き取り調査データ](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/実習/sample/fkuchiyama_sample.zip)　([福知山豪雨災害防災マップ](http://opentextmap.org/library/?p=2808)　© 福知山豪雨災害防災マップ を加工し作成）
@@ -272,8 +272,8 @@ QGISのビュー上に縮尺と方位記号が表示された。
 
 ## 参考ページの紹介
 - QGISについて詳しく勉強したい方　QGISユーザーガイド
-①http://qgis.org/ja/site/about/index.html  
-- QGISとPythonについて詳しく勉強したい方　 PyQGIS 開発者用 Cookbook
+①http://qgis.org/ja/site/about/index.html    
+- QGISとPythonについて詳しく勉強したい方　 PyQGIS 開発者用 Cookbook  
 ②http://docs.qgis.org/2.2/ja/docs/pyqgis_developer_cookbook/  
 
 [▲メニューへもどる]  
