@@ -29,6 +29,7 @@
 
 **スライド教材**  
 スライドのダウンロードは[こちら](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/QGISビギナーズマニュアル/QGISビギナーズマニュアル.pptx)
+
 ----------
 
 ## <a name = "QGISとは？">QGISとは？
