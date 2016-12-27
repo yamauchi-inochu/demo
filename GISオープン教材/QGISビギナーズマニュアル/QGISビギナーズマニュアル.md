@@ -32,7 +32,7 @@
 ----------
 
 ## <a name = "QGISとは？">QGISとは？
-- QGISは、オープンソースかつ無償で利用できるGIS（GNU General Public Licenseで提供）です。 Windows,Mac,Linux,Unix, Androidなど様々な環境で動作します。様々なプラグインが用意されていることや、GRASSやPostGISなど他のオープンソースGISとの連携ができることで、多様な分析が可能です。GISの基本操作を網羅しているだけでなく、Web上に多数のマニュアルがアップロードされているため、GIS学習がしやすいソフトウェアです。  
+　QGISは、オープンソースかつ無償で利用できるGIS（GNU General Public Licenseで提供）です。 Windows,Mac,Linux,Unix, Androidなど様々な環境で動作します。様々なプラグインが用意されていることや、GRASSやPostGISなど他のオープンソースGISとの連携ができることで、多様な分析が可能です。GISの基本操作を網羅しているだけでなく、Web上に多数のマニュアルがアップロードされているため、GIS学習がしやすいソフトウェアです。  
 
 >( http://qgis.org/ja/site/about/index.html を参考に作成 )
 
