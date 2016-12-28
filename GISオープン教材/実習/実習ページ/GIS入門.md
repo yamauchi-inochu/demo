@@ -14,7 +14,7 @@
 　平成26年8月豪雨後に実施した京都府福知山市でのフィールド調査（インタビュー）データを用いて、完成例のような地図を作成してください。各地点の被災状況に差がある理由とその理由を証明するために必要なレイヤについて考え、300文字程度でまとめてください。
 
 **データ**  
-サンプルデータ[fkuchiyama_sample.zip](https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/実習課題/sample/fkuchiyama_sample.zip?raw=true)
+サンプルデータ[　fkuchiyama_sample.zip](https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/実習課題/sample/fkuchiyama_sample.zip?raw=true)
 
 **完成例**  
 
