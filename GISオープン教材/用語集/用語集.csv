@@ -50,10 +50,10 @@ K-関数,各点から、ある距離内にある点の数を計測し、点の�
 スプライン補間,スプライン関数による補間法のこと。スプライン関数とは、連続条件を満たすように多項式を接続する区分多項式のこと。　,,浅見ほか編 （2015） 『地理情報科学 -GISスタンダード-』 古今書院,
 クリギング,空間的自己相関を距離の関数としてモデル化したバリオグラムを利用した空間補間法のこと。,,地理情報科学スライド GIScスライド 第4章8.空間補間,http://curricula.csis.u-tokyo.ac.jp/slide/4-8.html
 等間隔分類,最大最小値を除し、属性値の範囲が等間隔になるように階級区分を割り当てる分類手法のこと。,,GISオープン教材,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
-等量分類,階級数のデータ数が、等しくなるように階級区分が割り当てる分類手法のこと。,,,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
+等量分類,階級数のデータ数が、等しくなるように階級区分が割り当てる分類手法のこと。,,GISオープン教材,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
 自然分類,頻度分布などにより、グループを形成させ、データの変化量が大きい箇所に各グループの階級区分を割り当てる分類手法のこと。,,,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
-標準偏差分類,平均値から標準偏差を加減した値により、階級区分を割り当てる分類手法のこと。,,,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
-カルトグラム,統計データに基づいて面積や距離を変形させた図のこと。,,,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
+標準偏差分類,平均値から標準偏差を加減した値により、階級区分を割り当てる分類手法のこと。,,GISオープン教材,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
+カルトグラム,統計データに基づいて面積や距離を変形させた図のこと。,,GISオープン教材,https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/21_視覚的伝達/視覚的伝達.md
 OpenStreetMap,OpenStreetMap（OSM）は、誰もが自由に利用できるフリーの地理情報データを作成するプロジェクトのこと。,,OpenStreetMap Japan,https://openstreetmap.jp/
 クライシスマッピング,地震、津波、洪水などの災害、伝染病、政治と関連した暴動や社会問題というような危機に対して、地図による救済、復興のための支援活動のこと。,,浅見ほか編 （2015） 『地理情報科学 -GISスタンダード-』 古今書院,
 KML,GoogleEarth等で表示できるXMLを標準ベースとしたタグ構造で記述されるファイル形式のこと。拡張子は、.kmlまたは、.kmz。,,GoogleDevelopers,https://developers.google.com/kml/documentation/kml_tut?hl=ja
