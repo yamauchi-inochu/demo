@@ -30,7 +30,7 @@
   * [Cesiumによるデータの可視化](GISオープン教材/インターネットの活用に関する教材/Cesiumによるデータの可視化/Cesiumによるデータの可視化.md)
   * [czml入門](GISオープン教材/インターネットの活用に関する教材/czml入門/czml入門.md)
   * [GitHubビギナーズマニュアル](GISオープン教材/インターネットの活用に関する教材/GitHubビギナーズマニュアル/GitHubビギナーズマニュアル.md)
-  * [Google マイマップの活用](GISオープン教材/インターネットの活用に関する教材/Google マイマップの活用/Google マイマップの活用.md)
+  * [Google マイマップの活用](GISオープン教材/インターネットの活用に関する教材/Googleマイマップの活用/Googleマイマップの活用.md)
   * [OpenStreetMAPとクライシスマッピング](GISオープン教材/インターネットの活用に関する教材/OpenStreetMAPとクライシスマッピング/OpenStreetMAPとクライシスマッピング.md)
   * [QGISとLeafLetの連携](GISオープン教材/インターネットの活用に関する教材/QGISとLeafLetの連携/QGISとLeafLetの連携.md)
   * [地理院地図の活用](GISオープン教材/インターネットの活用に関する教材/地理院地図の活用/地理院地図の活用.md)
