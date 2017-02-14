@@ -1,4 +1,4 @@
-# python中級
+# QGIS+python初級
 　本教材は、QGIS+python入門の教材です。以下では、QGISのpythonモジュールとコンソール機能を利用した処理について解説します。pythonの入門書などで基礎を学んでから、本教材をすすめると学習がしやすいです。pythonコンソールの使用法については、[QGISビギナーズマニュアル](../QGISビギナーズマニュアル/QGISビギナーズマニュアル.md)を参考にしてください。
 
 >本教材は、[OSGeo財団日本支部　QGISセミナー・中級編 Ver. 2.4版](http://www.slideshare.net/FOSS4G_MEXT/qgis-39125122)を参考に作成しています。
