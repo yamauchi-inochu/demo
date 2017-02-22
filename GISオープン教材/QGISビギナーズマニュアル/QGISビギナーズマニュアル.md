@@ -27,7 +27,7 @@
 * 国土交通省国土政策局「[国土数値情報]（東京都　地価公示データ）」
 >地価公示のデータは、東京23区の行政区ポリゴンをもとにクリップしたものです。クリップは、[基本的な空間解析]の教材にまとめています。GIS初心者の方は、クリップをせずに、もとデータ（東京都全体のデータ）を読み込んで作業を進めてください。ダウンロードの手法は、[既存データの地図データと属性データ]の教材にまとめています。  
 
-* [福知山豪雨災害聞き取り調査データ](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/実習/sample/fkuchiyama_sample.zip)　([福知山豪雨災害防災マップ](http://opentextmap.org/library/?p=2808)　© 福知山豪雨災害防災マップ を加工し作成）
+* [福知山豪雨災害聞き取り調査データ](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/課題/sample/fkuchiyama_sample.zip)　([福知山豪雨災害防災マップ](http://opentextmap.org/library/?p=2808)　© 福知山豪雨災害防災マップ を加工し作成）
 
 **スライド教材**  
 スライドのダウンロードは[こちら](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/QGISビギナーズマニュアル/QGISビギナーズマニュアル.pptx)
