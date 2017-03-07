@@ -245,7 +245,7 @@ Cartoなどで簡単にWebGISとして表現できる。
 プラグイン＞プラグインの管理とインストールからTileLayerPluginを検索し、プラグインのインストールをクリックする。  
 ![TileLayerPlugin](pic/Qpic16-1.png)
 
-インストールが完了したら、地理院タイルをまとめた[gsi-tiles.zip](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/実習/sample/gsi-tiles.zip)をダウンロードし、任意の場所に保存し、.zipを解凍する。  
+インストールが完了したら、地理院タイルをまとめた[gsi-tiles.zip](https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/課題/sample/gsi-tiles.zip)をダウンロードし、任意の場所に保存し、.zipを解凍する。  
 
 ![TileLayerPlugin](pic/Qpic16-2.png)
 web>タイルレイヤプラグインから、プラグインを起動する。タイルレイヤプラグインの設定をクリックし、解凍したgsi-tilesフォルダを外部レイヤディレクトリに指定する。フォルダを指定していることを確認し、OKをクリックすると地理院タイルの一覧が表示される。地理院タイルを使用する際は、[地理院タイルの利用規約](http://maps.gsi.go.jp/help/use.html)に従ってください。
