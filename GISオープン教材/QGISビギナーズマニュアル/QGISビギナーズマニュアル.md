@@ -344,7 +344,7 @@ CSVは、カンマで区切られたデータ形式で、座標値をもって�
 
 **その他のライセンス**  
 本教材で利用しているキャプチャ画像の出典やクレジットについては、[その他のライセンスについて]よりご確認ください。
-[その他のライセンスについて]:../その他のライセンスについて.md
+
 
 [▲メニューへもどる]:QGISビギナーズマニュアル.md#menu
 [国土数値情報]:http://nlftp.mlit.go.jp/ksj/
@@ -355,3 +355,4 @@ CSVは、カンマで区切られたデータ形式で、座標値をもって�
 [ラスタデータの分析]:../15_ラスタデータの分析/ラスタデータの分析.md
 [福知山豪雨災害聞き取り調査データ]:https://github.com/yamauchi-inochu/demo/raw/master/GISオープン教材/課題/sample/fkuchiyama_sample.zip
 [QGIS API Documentation]:http://www.qgis.org/api/index.html
+[その他のライセンスについて]:../その他のライセンスについて.md
