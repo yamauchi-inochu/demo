@@ -8,7 +8,7 @@
 * [GRASS入門](#GRASS入門)
 
 **使用データ**
-* [fkuchiyama_sample.zip](../課題/sample/fkuchiyama_sample.zip?raw=true)　([福知山豪雨災害防災マップ](http://opentextmap.org/library/?p=2808)　© 福知山豪雨災害防災マップ を加工し作成）  
+* [fkuchiyama_sample.zip](../sample/fkuchiyama_sample.zip?raw=true)　([福知山豪雨災害防災マップ](http://opentextmap.org/library/?p=2808)　© 福知山豪雨災害防災マップ を加工し作成）  
 
 * 国土地理院「 基盤地図情報　数値標高モデル　5ｍメッシュ　高松周辺（513440）」
 
