@@ -82,7 +82,7 @@
     },
 ```
 
-“height” : 20000,を削除し上のコードを追加する。
+"height" : 20000,を削除し上のコードを追加する。
 
 ![表示](pic/czmlpic_2.png)
 ビューワーを開き.czmlをドラックアンドドロップする。
@@ -143,10 +143,10 @@ GitHubの場合は、RAWをクリックしURLをコピーする。
     "version" : "1.0"
   }, {
     "id" : "point",
-    “name” : “名称を記述する",
-    “description” : “ポイントの詳細を記述する。",
+    "name" : "名称を記述する",
+    "description" : "ポイントの詳細を記述する。",
     "billboard" : {
-      “image” : “コピーしたURLを貼り付ける",
+      "image" : "コピーしたURLを貼り付ける",
       "scale" : 0.2
     },
     "label" : {

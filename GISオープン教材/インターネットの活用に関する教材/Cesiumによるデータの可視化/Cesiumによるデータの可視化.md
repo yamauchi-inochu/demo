@@ -58,7 +58,7 @@ Cesiumのホームページの[Downloads]から、ダウンロードすること
 [Downloads]:https://cesiumjs.org/downloads.html
 
 ![ダウンロード](pic/cesiumpic_6.png)
-Git Hubでリポジトリを作成して、ローカルからPushすることでcesiumをwebにアップロードできる
+GitHubでリポジトリを作成して、ローカルからPushすることでCesiumをwebにアップロードできる
 ※デモデータなどが入っているため重たいため、本教材では使用しない。
 
 ![ダウンロード](pic/cesiumpic_7.png)
@@ -75,7 +75,7 @@ pjcozzi氏がCesiumを編集しやすい形にしたものを公開している�
 http://（ユーザー名）.github.io/echizen/cesium-starter-app-master/index.html
 ```
 
-gh-pagesを開き、Cesiumの起動を確認する。　※ローカルでcesiumは起動しない
+gh-pagesを開き、Cesiumの起動を確認する。　※ローカルでCesiumは起動しない
 
 [▲メニューへもどる]
 
@@ -159,8 +159,8 @@ var cesiumWidget = new Cesium.Viewer('cesiumContainer');
 ⑧　バルーンの設定:リンクを追加をクリックしURLを追加する（越前市の防災課）。
 アイコンの設定：ラベルの縮尺を0.0にする。
 
-⑨　凡例画像を作成し、GitHubにアップロードし、GoogleEarthでレイヤのプロパティから、画像を追加する。
-アップロードしたURLを指定すると、cesiumで画像を表示できる。
+⑨　凡例画像を作成し、GitHubにアップロードし、Google Earthでレイヤのプロパティから、画像を追加する。
+アップロードしたURLを指定すると、Cesiumで画像を表示できる。
 
 
 ![KMLの書き換え](pic/cesiumpic_30.png)
