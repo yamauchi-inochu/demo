@@ -32,7 +32,7 @@
 
 ----------
 
-## <a name="OpenStreetMapとは？">OpenStreetMapとは？
+## <a name="OpenStreetMapとは？"></a>OpenStreetMapとは？
 * OpenStreetMap（OSM）は、誰もが利用できるフリーの地理情報データを作成するプロジェクト
 
 * アカウントを登録していれば、地図の編集が自由にできる
@@ -75,7 +75,7 @@ OSMの編集にはアカウントが必要となる。
 
 [▲メニューへもどる]
 
-## <a name = OSMの編集>OSMの編集
+## <a name="OSMの編集"></a>OSMの編集
 ![osm](pic/osmpic_3.png)
 [OpenStreetMap]にアクセスし、任意の地域を拡大する。
 編集をクリックし、IDを利用する。
@@ -107,7 +107,7 @@ OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了す�
 
 [▲メニューへもどる]
 
-## <a name = エディタ（JOSM）の使い方>エディタ（JOSM）の使い方
+## <a name="エディタ（JOSM）の使い方"></a>エディタ（JOSM）の使い方
 ※　ブラウザで編集しない場合
 
 ![osm](pic/osmpic_8.png)
@@ -188,7 +188,7 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 
 [▲メニューへもどる]
 
-## <a name= OSMを利用したクライシスマッピング>OSMを利用したクライシスマッピング
+## <a name="OSMを利用したクライシスマッピング"></a>OSMを利用したクライシスマッピング
 
 ### OSM Tasking Managerの利用
 OSM Tasking Managerは、OSM人道支援チーム "Humanitarian OSM Team, HOT"が、クライシスマッピングの支援ツールとして提供しているもの。

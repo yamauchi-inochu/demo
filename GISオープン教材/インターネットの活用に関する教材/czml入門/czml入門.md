@@ -16,7 +16,7 @@
 * [時間によるアイコンの移動](#時間によるアイコンの移動)
 
 ------
-## <a name = CZMLとは?>CZMLとは?
+## <a name="CZMLとは?"></a>CZMLとは?
 
 * CZMLは、Cesiumでデータを表現する際に利用できる。
 * JSON形式を基本としているため、軽量。
@@ -27,7 +27,7 @@
 
 > https://github.com/AnalyticalGraphicsInc/cesium/wiki/CZML-Guideを参考に作成
 
-## <a name = CZMLでポリゴンを表示する>CZMLでポリゴンを表示する
+## <a name="CZMLでポリゴンを表示する"></a>CZMLでポリゴンを表示する
 ### 東京駅から半径25ｋｍ圏をCZMLで作成する
 以下のコードをコピーし、テキストファイルを作成する。
 拡張子を.czmlとして保存する。
@@ -88,7 +88,7 @@
 ビューワーを開き.czmlをドラックアンドドロップする。
 3Dポリゴンが作図できたことを確認する。
 
-## <a name = Cesiumで実装する>Cesiumで実装する
+## <a name="Cesiumで実装する"></a>Cesiumで実装する
 ![表示](pic/czmlpic_3.png)
 
 ```

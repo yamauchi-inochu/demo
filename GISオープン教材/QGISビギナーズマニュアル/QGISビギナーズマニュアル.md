@@ -32,7 +32,7 @@
 
 ----------
 
-## <a name = "QGISとは？"></a>QGISとは？
+## <a name="QGISとは？"></a>QGISとは？
 　QGISは、オープンソースかつ無償で利用できるGIS（GNU General Public Licenseで提供）です。 Windows,Mac,Linux,Unix, Androidなど様々な環境で動作します。様々なプラグインが用意されていることや、GRASSやPostGISなど他のオープンソースGISとの連携して使用することで、多様な分析が可能です。GISの基本操作を網羅しているだけでなく、Web上に多数のマニュアルがアップロードされているため、GIS学習がしやすいソフトウェアです。  
 
 >( http://qgis.org/ja/site/about/index.html を参考に作成 )
@@ -289,7 +289,7 @@ web>タイルレイヤプラグインから、プラグインを起動する。�
 [▲メニューへもどる]
 
 
-## <a name = "Python入門">Python入門
+## <a name="Python入門"></a>Python入門
 　QGISでは、Pythonでコードを書いて処理したり、自作したプラグインを使用することができます。以下では、Pythonコンソールを用いてコードによる処理について紹介しています。QGISでのPythonコードの利用について興味のある方は、以下を試してみてください。
 
 プラグインから、Pythonコンソールを開く。
@@ -322,6 +322,7 @@ Python関数を用いることで、複数のレイヤを一括で処理する�
 [▲メニューへもどる]  
 
 ## データの保存形式
+
 　GISでは、Shapefile（シェープファイル）形式のベクトルデータを用いることが多いです。しかし、使用するソフトウェアやアプリケーションによっては、別の形式のファイルを使用します。ここでは、QGISによるデータのエクスポートについて解説します。余裕のある方は、[福知山豪雨災害聞き取り調査データ]様々な形式でのデータのエクスポートを試してみてください。
 
 レイヤの上で右クリックし名前をつけて保存をクリックする。QGISでは、シェープファイル以外にも、CSV,KML,GeoJASONなど様々な形式を選択できる。
@@ -338,10 +339,12 @@ CSVは、カンマで区切られたデータ形式で、座標値をもって�
 [▲メニューへもどる]
 
 ## 参考ページの紹介
+
 - QGISについて詳しく勉強したい方　QGISユーザーガイド
-①http://qgis.org/ja/site/about/index.html
+①[http://qgis.org/ja/site/about/index.html](http://qgis.org/ja/site/about/index.html)
+
 - QGISとPythonについて詳しく勉強したい方　 PyQGIS 開発者用 Cookbook
-②http://docs.qgis.org/2.2/ja/docs/pyqgis_developer_cookbook/
+②[http://docs.qgis.org/2.2/ja/docs/pyqgis_developer_cookbook/](http://docs.qgis.org/2.2/ja/docs/pyqgis_developer_cookbook/)
 
 [▲メニューへもどる]
 
