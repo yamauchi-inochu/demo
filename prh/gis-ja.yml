@@ -48,8 +48,8 @@ rules:
         to: Web GIS
 
   - expected: pgAdmin III
-    pattern: /[PpＰｐ][GgＧｇ][AaＡａ][DdＤｄ][MmＭｍ][IiＩｉ][NnＮｎ][ 　]*(([IiＩｉ]{3})|3３ⅲⅢ])/
-    spescs:
+    pattern: /[PpＰｐ][GgＧｇ][AaＡａ][DdＤｄ][MmＭｍ][IiＩｉ][NnＮｎ][ 　]*([3３ⅲⅢ]|iii|III)/
+    specs:
       - from: pgAdminⅲ
         to: pgAdmin III
 
@@ -76,12 +76,17 @@ rules:
 
   - expected: QGIS2Leaflet
 
-  - expected: GIS
-
   - expected: QGIS
-    pattern: /[QqＱｑ][ 　]*[GgＧｇ][IiＩｉ][SsＳｓ]/i
+    pattern: /([QqＱｑ][ 　]*[GgＧｇ][IiＩｉ][SsＳｓ])(?!2threejs)/
     specs:
       - from: q gis
         to:   QGIS
       - from: q 　 gis
         to:   QGIS
+      - from: Qgis2threejs
+        to: Qgis2threejs
+
+  - expected: GIS
+    pattern: /gis(?!2threejs)/i
+
+  - expected: OpenStreetMap
