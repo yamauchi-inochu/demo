@@ -4,7 +4,6 @@
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
 [利用規約]:../../../../master/利用規約.md
 
-
 **Menu**
 -----
 **OpenStreetMap**
@@ -33,7 +32,7 @@
 
 ----------
 
-## <a name=OpenStreetMapとは？>OpenStreetMapとは？
+## <a name="OpenStreetMapとは？">OpenStreetMapとは？
 * OpenStreetMap（OSM）は、誰もが利用できるフリーの地理情報データを作成するプロジェクト
 
 * アカウントを登録していれば、地図の編集が自由にできる
@@ -84,7 +83,8 @@ OSMの編集にはアカウントが必要となる。
 ![osm](pic/osmpic_4.png)
 背景にBingマップが表示されている。このまま編集することも可能。
 今回は、カスタムから地理院タイルを読み込む。
-地理院タイルのURLやタグについては、　http://wiki.openstreetmap.org/wiki/JA:GSImaps/ を参照する。
+地理院タイルのURLやタグについては、http://wiki.openstreetmap.org/wiki/JA:GSImaps/ を参照する。
+
 
 ### 建物の追加
 ![osm](pic/osmpic_5.png)
@@ -170,7 +170,7 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 
 データを利用する際は、Map data
 © OpenStreetMap contributors　などのクレジットが必要。
-詳細は、http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/ を確認する。
+詳細は、[http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/](http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/) を確認する。
 
 [▲メニューへもどる]
 

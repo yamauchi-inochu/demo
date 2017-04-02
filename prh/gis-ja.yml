@@ -5,16 +5,6 @@ rules:
 # 校正ルールの書き方は以下を参照してください
 # https://github.com/prh/prh/blob/master/misc/prh.yml
 
-  - expected: GIS
-
-  - expected: QGIS
-    pattern: /[QqＱｑ][ 　]*[GgＧｇ][IiＩｉ][SsＳｓ]/i
-    specs:
-      - from: q gis
-        to:   QGIS
-      - from: q 　 gis
-        to:   QGIS
-
   - expected: MMQGIS
 
   - expected: Qgis2threejs
@@ -32,8 +22,8 @@ rules:
   - expected: シェープファイル
     patterns:
       - /シ[エェ]イプフ[アァ]イル/
-      - /[sS]hape[ 　]*ファイル/
-      - /[sS]hape[ ]*[fF]ile/
+      - /[sS]hape[ 　]ファイル/
+      - /[sS]hape[ ][fF]ile/
 
     specs:
       - from: シェイプファイル
@@ -49,14 +39,6 @@ rules:
 
   - expected: GeoTIFF
 
-  - expected: PNG
-
-  - expected: JPEG
-    pattern: /[JjJｊ][PpPｐ][EeＥｅ]?[GgＧｇ]/
-    specs:
-      - from: jpg
-        to: JPEG
-
   - expected: ESRI
 
   - expected: Web GIS
@@ -68,10 +50,8 @@ rules:
   - expected: pgAdmin III
     pattern: /[PpＰｐ][GgＧｇ][AaＡａ][DdＤｄ][MmＭｍ][IiＩｉ][NnＮｎ][ 　]*(([IiＩｉ]{3})|3３ⅲⅢ])/
     spescs:
-      - from: pgadminⅢ
+      - from: pgAdminⅲ
         to: pgAdmin III
-
-  - expected: OpenStreetMap
 
   - expected: Moran's I
     pattern: /[Mm]oran['‘’]s[ 　]*[Iil]/
@@ -84,5 +64,24 @@ rules:
 
   - expected: Python
 
-  - expected: CartoDB
-    pattern: /[Cc]arto[ ]*[Dd][Bb]/
+  - expected: Cesium
+
+  - expected: WebGL
+    pattern: /web( )?gl/i
+
+  - expected: Google Earth
+    pattern: /google( )?earth/i
+
+  - expected: Leaflet
+
+  - expected: QGIS2Leaflet
+
+  - expected: GIS
+
+  - expected: QGIS
+    pattern: /[QqＱｑ][ 　]*[GgＧｇ][IiＩｉ][SsＳｓ]/i
+    specs:
+      - from: q gis
+        to:   QGIS
+      - from: q 　 gis
+        to:   QGIS

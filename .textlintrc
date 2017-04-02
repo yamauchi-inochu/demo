@@ -3,5 +3,10 @@
         "prh": {
             "rulePaths" :["./prh/gis-ja.yml"]
         }
+    },
+    "filters": {
+        "node-types": {
+          "nodeTypes": ["Link"]
+        }
     }
 }
