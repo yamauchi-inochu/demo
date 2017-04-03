@@ -33,10 +33,10 @@
 
 ----------
 
-## <a name=OpenStreetMapとは？>OpenStreetMapとは？
+## <a name="OpenStreetMapとは？"></a>OpenStreetMapとは？
 　OpenStreetMap（OSM）は、誰もが利用できるフリーの地理情報データを作成するプロジェクトです。OSMの編集者によって、作成された地理情報データは、© OpenStreetMap Contributors CC BY-SAの条件下で自由に利用することができます。OSMの編集は、アカウント登録取得することで、誰もが自由に行うことができます。OSMで作成される地理情報データは、ライセンス上利用可能な画像（地図、空中写真、衛星画像等）からのトレース、現地調査、GPSデータ等によって作成されます。
 
-> OpenStreetMap Japan https://openstreetmap.jp/ を参考に作成
+> OpenStreetMap Japan [https://openstreetmap.jp/](https://openstreetmap.jp/) を参考に作成
 
 [▲メニューへもどる]
 [▲メニューへもどる]:参加型GISと社会貢献.md#menu
@@ -61,7 +61,7 @@
   ライセンス上利用可能な地図や空中写真などを背景に地物をトレースすることができる
 
 * 地物の属性をタグとして付与する
-  >タグの詳細は、http://wiki.openstreetmap.org/wiki/JA:Map_Features/ を参照
+  >タグの詳細は、[http://wiki.openstreetmap.org/wiki/JA:Map_Features/](http://wiki.openstreetmap.org/wiki/JA:Map_Features/) を参照
 
 * Google Mapsなどを用いたOSMの編集は、できない（ソースにする媒体の利用規約などを参照して利用）
 
@@ -76,7 +76,7 @@
 
 [▲メニューへもどる]
 
-## <a name = OSMの編集>OSMの編集
+## <a name="OSMの編集"></a>OSMの編集
 　OpenStreetMapでは、背景地図、現地調査、GPSデータを参考に、エディタを使って点、線、面の地物を作成または編集します。以下は、OpenStreetMapで地物を追加する手法について解説したものです。OSMの地物の編集について詳しくは、[OSM wiki](http://wiki.openstreetmap.org/wiki/JA:%E5%9C%B0%E5%9B%B3%E4%BD%9C%E3%82%8A%E3%81%AE%E6%A6%82%E8%A6%81)を参照してください。
 　以下では、OSMの編集について解説しています。
 
@@ -86,7 +86,7 @@
 
 背景にBingマップが表示されている。このまま編集することも可能。
 今回は、カスタムから地理院タイルを読み込む。
->地理院タイルのURLやタグについては、　http://wiki.openstreetmap.org/wiki/JA:GSImaps/ を参照する。
+>地理院タイルのURLやタグについては、　[http://wiki.openstreetmap.org/wiki/JA:GSImaps/](http://wiki.openstreetmap.org/wiki/JA:GSImaps/) を参照する。
 
 ![osm](pic/osmpic_4.png)
 
@@ -105,7 +105,7 @@
 。
 
 地物を追加し、左のウィンドウから属性を設定すると一番下にタグ(データに記載される情報)が追加される。
-タグの入力や選択は、http://wiki.openstreetmap.org/wiki/JA:Map_Features を参考にする。
+タグの入力や選択は、[http://wiki.openstreetmap.org/wiki/JA:Map_Features](http://wiki.openstreetmap.org/wiki/JA:Map_Features) を参考にする。
 sourceについて、背景画像から判断できない場合は、現地調査（source = survey）などで取得する。
 道路等のラインを作成する場合は、接合をチェックする。
 ![osm](pic/osmpic_6.png)
@@ -121,7 +121,7 @@ OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了す�
 
 [▲メニューへもどる]
 
-## <a name = ローカル編集>ローカル編集
+## <a name="ローカル編集"></a>ローカル編集
 　OSMでは、ブラウザ（ID エディタなど）せず、ローカルで編集したレイヤをアップロードすることも可能です。以下では、JOSMを利用してローカルで編集したレイヤをアップロードする手法について解説しています。
 
 [JOSMダウンロードサイト](https://josm.openstreetmap.de/wiki/Ja%3AWikiStart/)にアクセスしJOSMのインストーラをダウンロードする。
@@ -194,7 +194,7 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 ![osm](pic/osmpic_19.png)
 
 
-**※データを利用する際は、Map data © OpenStreetMap contributors　などのクレジットが必要となる。詳細は、http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/ を確認する。**
+**※データを利用する際は、Map data © OpenStreetMap contributors　などのクレジットが必要となる。詳細は、[http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/](http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/) を確認する。**
 
 [▲メニューへもどる]
 
@@ -215,7 +215,7 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 
 [▲メニューへもどる]
 
-## <a name= OSMを利用したクライシスマッピング>OSMを利用したクライシスマッピング
+## <a name="OSMを利用したクライシスマッピング"></a>OSMを利用したクライシスマッピング
 　以下は、Humanitarian OSM Team（HOT）のタスキングマネージャーとOSMを利用したクライシスマッピングについて解説しています。
 
 ### OSM Tasking Managerの利用
