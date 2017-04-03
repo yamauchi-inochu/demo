@@ -1,6 +1,7 @@
 {
     "rules": {
-        "preset-jtf-style": true,
-        "preset-ja-technical-writing": true
+        "prh": {
+            "rulePaths" :["./prh/gis-ja.yml"]
+        }
     }
 }
