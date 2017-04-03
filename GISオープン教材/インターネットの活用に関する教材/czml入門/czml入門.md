@@ -1,5 +1,5 @@
 # CZML入門
-本教材は、Cesiumで利用できるCZMLファイルの利用手法について解説したものです。cesium viewerを用いて、データの表示、時間によるアニメーションなどを行います。
+本教材は、Cesiumで利用できるCZMLファイルの利用手法について解説したものです。Cesium viewerを用いて、データの表示、時間によるアニメーションなどを行います。
 コードの解説は[スライド教材]を参照して下さい。
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
@@ -16,7 +16,7 @@
 * [時間によるアイコンの移動](#時間によるアイコンの移動)
 
 ------
-## <a name = CZMLとは?>CZMLとは?
+## <a name="CZMLとは?"></a>CZMLとは?
 
 * CZMLは、Cesiumでデータを表現する際に利用できる。
 * JSON形式を基本としているため、軽量。
@@ -27,7 +27,7 @@
 
 > https://github.com/AnalyticalGraphicsInc/cesium/wiki/CZML-Guideを参考に作成
 
-## <a name = CZMLでポリゴンを表示する>CZMLでポリゴンを表示する
+## <a name="CZMLでポリゴンを表示する"></a>CZMLでポリゴンを表示する
 ### 東京駅から半径25ｋｍ圏をCZMLで作成する
 以下のコードをコピーし、テキストファイルを作成する。
 拡張子を.czmlとして保存する。
@@ -88,7 +88,7 @@
 ビューワーを開き.czmlをドラックアンドドロップする。
 3Dポリゴンが作図できたことを確認する。
 
-## <a name = Cesiumで実装する>Cesiumで実装する
+## <a name="Cesiumで実装する"></a>Cesiumで実装する
 ![表示](pic/czmlpic_3.png)
 
 ```
@@ -129,7 +129,7 @@ var viewer = new Cesium.Viewer('cesiumContainer');
 viewer.dataSources.add(Cesium.CzmlDataSource.load(czml));
 ```
 ## オリジナルのアイコンによるポイント表示
-PowerPointやペイントなどを利用し、図を作成する（拡張子は.png or .jpg）
+PowerPointやペイントなどを利用し、図を作成する（拡張子は`.png` or `.jpg`）
 サイズは200×200ピクセル程度で作成する。
 ![表示](pic/czmlpic_4.png)
 作成した画像をGitHubなどでwebにあげておく。

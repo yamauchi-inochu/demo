@@ -56,7 +56,7 @@ DATA VIEW でテーブルデータが表示でき、MAP VIEWで地図が表示�
 
 [▲メニューへもどる]
 
-## <a name="NEWマップを作成する">NEWマップを作成する
+## <a name="NEWマップを作成する"></a>NEWマップを作成する
 ![NEWマップ](pic/cartopic_5.png)
 Datasetsの横の下三角ボタンから、Your mapsをクリックする。
 
@@ -97,7 +97,7 @@ Get the link からURLをコピーし、ブラウザで検索する。
 
 [▲メニューへもどる]
 
-## <a name="SQLでデータを分析する">SQLでデータを分析する
+## <a name="SQLでデータを分析する"></a>SQLでデータを分析する
 ![SQL](pic/cartopic_17.png)
 Apply queryをクリックして、コードを実行する。
 ＳＱＬから、上のコードを入力し、想定浸水区域内の一時避難所を抽出する。

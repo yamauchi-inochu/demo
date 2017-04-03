@@ -28,7 +28,7 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 
 ----------
 
-## <a name=GitHubとは？>GitHubとは？
+## <a name="GitHubとは？"></a>GitHubとは？
 - Git(バージョン管理システム)をホスティングするサービス
 - 複数人による開発（リモート作業）が可能
 - コラボレーションツールによる、円滑なコミュニケーション
@@ -39,7 +39,7 @@ GISソフトウェアのバージョン変更により、本教材が対応し�
 [▲メニューへもどる]
 [▲メニューへもどる]:GitHubビギナーズマニュアル.md#menu
 
-## <a name =GitHubアカウントの取得>GitHubアカウントの取得
+## <a name="GitHubアカウントの取得"></a>GitHubアカウントの取得
 
 ![アカウント](pic/gitpic_1.png)
 [GitHubのサイト]にアクセスしてアカウントを作成する。
@@ -91,7 +91,7 @@ https://desktop.github.comにアクセスし、クライアントソフトをイ
 
 [▲メニューへもどる]
 
-## <a name=Repositoryの作成>Repositoryの作成
+## <a name="Repositoryの作成"></a>Repositoryの作成
 ![リポジトリ](pic/gitpic_6.png)
 +ボタンをクリックし、「New repository」を選択する。
 
@@ -101,7 +101,7 @@ echizenとい名前のrepositoryが新規に作成された。
 
 [▲メニューへもどる]
 
-## <a name=gh-pagesを作成する>gh-pagesを作成する
+## <a name="gh-pagesを作成する"></a>gh-pagesを作成する
 ![gh-pagesを作成する](pic/gitpic_8.png)
 Repositoryの設定（Settings）をクリックし、gh-pagesのブランチを作成する
 ※ gh-pages　Webサイトとして表示できる機能
@@ -162,7 +162,7 @@ Webに画像がアップロードされていることを確認できた
 
 [▲メニューへもどる]
 
-## <a name = Pull_requestによる教材修正の提案>Pull_requestによる教材修正の提案
+## <a name="Pull_requestによる教材修正の提案"></a>Pull_requestによる教材修正の提案
 
 ![Pull request](pic/gitpic_21.png)
 GitHubで教材ページのリポジトリを開く。
@@ -187,7 +187,7 @@ GitHubで教材ページのリポジトリを開く。
 [Sourcetreeビギナーズマニュアル]:Sourcetreeビギナーズマニュアル.md
 [▲メニューへもどる]
 
-## <a name = Issueによる投稿>Issueによる投稿
+## <a name="Issueによる投稿"></a>Issueによる投稿
 
 ![Pull request](pic/gitpic_25.png)
 教材ページのリポジトリへいきNew issueをクリックし、issueを立ち上げる。

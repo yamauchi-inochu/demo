@@ -27,7 +27,7 @@
 --------
 
 ## Cesiumとは
-- CesiumはWeb GL を用いたライブラリ
+- CesiumはWebGL を用いたライブラリ
 - 2Dだけでなく、3D表示ができる
 - 球体のため、世界規模のデータの表示に適している
 - 時系列データの表示も可能
@@ -66,7 +66,7 @@ https://github.com/pjcozzi/cesium-starter-app にアクセスし、「Download Z
 pjcozzi氏がCesiumを編集しやすい形にしたものを公開しているためそれを利用する。
 
 ![ダウンロード](pic/cesiumpic_8.png)
-解凍した「cesium-starter-app」をクリックし、ローカルリポジトリへ移動する。
+解凍した「`cesium-starter-app`」をクリックし、ローカルリポジトリへ移動する。
 クライアントソフトを更新しておく。
 
 ![ダウンロード](pic/cesiumpic_9.png)
@@ -114,9 +114,9 @@ cesiumWidget.camera.flyTo({   
 [▲メニューへもどる]
 
 
-## kmlの作成と読み込み
-### GoogleEarthでkmlを作成→Cesiumで読み込み
-①　GoogleEarth proでshapeファイルを読み込む。
+## KMLの作成と読み込み
+### Google EarthでKMLを作成→Cesiumで読み込み
+①　Google Earth proでシェープファイルを読み込む。
 ファイル＞開く　（想定浸水区域と一次避難所のshape）
 
 ②　取得したアイテムにスタイルテンプレートを適用（スタイルを調整）。
@@ -133,16 +133,16 @@ cesiumWidget.camera.flyTo({   
 ### KML読み込み
 ![KML読み込み](pic/cesiumpic_23.png)
 Sourceファイルの中のApp.jsをテキストエディタで開く。
-var cesiumWidget = new Cesium.Viewer('cesiumContainer');
-の下にkmlを読み込むコードを入力する。
+`var cesiumWidget = new Cesium.Viewer('cesiumContainer');`
+の下にKMLを読み込むコードを入力する。
 
 ![KML読み込み](pic/cesiumpic_24.png)
 クライアントソフトを通してアップロードし、Webで確認すると↑のように表示される。
-ポイントをクリックすると、kmlの属性データが反映されていない。
+ポイントをクリックすると、KMLの属性データが反映されていない。
 
 ### KMLの書き換え
 ![KMLの書き換え](pic/cesiumpic_25.png)
-ポイントレイヤの上で右クリックし、名前をつけて場所を保存から新規にkmlを保存する。
+ポイントレイヤの上で右クリックし、名前をつけて場所を保存から新規にKMLを保存する。
 
 ![KMLの書き換え](pic/cesiumpic_26.png)
 <BalloonStyle></BalloonStyle>を削除する（2箇所）。
@@ -150,11 +150,11 @@ var cesiumWidget = new Cesium.Viewer('cesiumContainer');
 ![KMLの書き換え](pic/cesiumpic_27.png)
 <description></description>を右のように書き換える。
 
-⑤　GoogleEarthからポイントレイヤの上で右クリックし、名前をつけて場所を保存から新規にkmlを保存する。
+⑤　Google Earthからポイントレイヤの上で右クリックし、名前をつけて場所を保存から新規にKMLを保存する。
 
-⑥　テキストエディタを開き、kmlを書き換える。
+⑥　テキストエディタを開き、KMLを書き換える。
 
-⑦　kmlをもう一度読み込み、表示を確認する。プロパティを開きその他の情報を追加する。
+⑦　KMLをもう一度読み込み、表示を確認する。プロパティを開きその他の情報を追加する。
 
 ⑧　バルーンの設定:リンクを追加をクリックしURLを追加する（越前市の防災課）。
 アイコンの設定：ラベルの縮尺を0.0にする。
