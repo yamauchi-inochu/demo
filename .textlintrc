@@ -6,10 +6,5 @@
         "no-dead-link": {
           "checkRelative": false
         }
-    },
-    "filters": {
-        "node-types": {
-          "nodeTypes": ["Link"]
-        }
     }
 }
