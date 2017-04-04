@@ -2,6 +2,9 @@
     "rules": {
         "prh": {
             "rulePaths" :["./prh/gis-ja.yml"]
+        },
+        "no-dead-link": {
+          "checkRelative": false
         }
     },
     "filters": {

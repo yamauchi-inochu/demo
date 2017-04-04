@@ -124,7 +124,7 @@ OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了す�
 ## <a name="ローカル編集"></a>ローカル編集
 　OSMでは、ブラウザ（ID エディタなど）せず、ローカルで編集したレイヤをアップロードすることも可能です。以下では、JOSMを利用してローカルで編集したレイヤをアップロードする手法について解説しています。
 
-[JOSMダウンロードサイト](https://josm.openstreetmap.de/wiki/Ja%3AWikiStart/)にアクセスしJOSMのインストーラをダウンロードする。
+[JOSMダウンロードサイト](https://josm.openstreetmap.de/wiki/Ja%3AWikiStart)にアクセスしJOSMのインストーラをダウンロードする。
 ダウンロードしたzipを解凍し、.exeファイルをインストールする。
 ![osm](pic/osmpic_8.png)
 
@@ -194,7 +194,7 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 ![osm](pic/osmpic_19.png)
 
 
-**※データを利用する際は、Map data © OpenStreetMap contributors　などのクレジットが必要となる。詳細は、[http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/](http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/) を確認する。**
+**※データを利用する際は、Map data © OpenStreetMap contributors　などのクレジットが必要となる。詳細は、[http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ](http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ) を確認する。**
 
 [▲メニューへもどる]
 
