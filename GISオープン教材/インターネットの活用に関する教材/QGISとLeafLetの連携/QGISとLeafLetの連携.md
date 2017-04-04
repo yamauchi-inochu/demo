@@ -1,5 +1,5 @@
-# QGISとLeafLetの連携
-本教材は、QGISとLeafLetを用いてWEB地図を公開するための実習用教材です。QGISでデータを読み込み、プラグインからLeafLetを用いてWEB地図を作成します。ローカルでデータを整えた後に、GitHubによるWEB地図の公開を行います。
+# QGISとLeafletの連携
+本教材は、QGISとLeafletを用いてWEB地図を公開するための実習用教材です。QGISでデータを読み込み、プラグインからLeafletを用いてWEB地図を作成します。ローカルでデータを整えた後に、GitHubによるWEB地図の公開を行います。
 講義用教材として、[地理情報科学教育用スライド（GIScスライド）]の4章が参考になります。
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
@@ -23,17 +23,17 @@
 
 **スライド教材**
 スライドのダウンロードは[こちら]
-[こちら]:../../../../../raw/master/GISオープン教材/インターネットの活用に関する教材/QGISとLeafLetの連携/QGISとLeafLetの連携.pptx
+[こちら]:../../../../../raw/master/GISオープン教材/インターネットの活用に関する教材/QGISとLeafletの連携/QGISとLeafletの連携.pptx
 
 ----------
 
 ## 利用するデータをダウンロードする
 
-越前市が公開している浸水想定区域と一次避難所のshapeファイルを[オープンデータ越前！]からダウンロードする。
-[オープンデータ越前！]:浸水想定区域と一次避難所のshapeファイルをダウンロードする。
+越前市が公開している浸水想定区域と一次避難所のシェープファイルを[オープンデータ越前！]からダウンロードする。
+[オープンデータ越前！]:浸水想定区域と一次避難所のシェープファイルをダウンロードする。
 
 [▲メニューへもどる]
-[▲メニューへもどる]:QGISとLeafLetの連携.md#menu
+[▲メニューへもどる]:QGISとLeafletの連携.md#menu
 
 ## QGISでスタイルを調整する
 ![QGISで調整](pic/leafpic_1.png)
@@ -43,14 +43,14 @@
 [▲メニューへもどる]
 
 ## プラグインを読み込む
-プラグインの管理とインストールから、「qgis2leaf」を検索し、インストールする。
+プラグインの管理とインストールから、「GQIS2Leaf」を検索し、インストールする。
 ![QGISで調整](pic/leafpic_2.png)
 
 [▲メニューへもどる]
 
-## qgis2leafを起動する
-![qgis2leaf](pic/leafpic_3.png)
-Web(W)>qgis2leaf>Exports a QGIS Project to a working leaflet webmap
+## QGIS2Leafを起動する
+![QGIS2Leaf](pic/leafpic_3.png)
+`Web(W)>qgis2leaf>Exports a QGIS Project to a working leaflet webmap`
 ① Get Layers をクリックしてレイヤを追加する。
 ② Basemapを選択する（複数選択できる）。
 ③ htmlを含んだファイルの出力先を指定する。
@@ -58,7 +58,7 @@ Web(W)>qgis2leaf>Exports a QGIS Project to a working leaflet webmap
 ⑤ OK をクリックする。
 ※レイヤ名が日本語だとエラーがでる。
 
-![qgis2leaf](pic/leafpic_4.png)
+![QGIS2Leaf](pic/leafpic_4.png)
 ローカルで、htmlファイルを開き中身を確認する。
 Basemapの追加、レイヤの透過、凡例の日本語化など、マップを調整する。
 
@@ -87,7 +87,7 @@ fillOpacity: ‘1.0’を0.7に変更し、weight:を0に変更する。
 ## GitHubでwebにアップロードする
 ![アップロード](pic/leafpic_9.png)
 リポジトリを作成後、ローカルにcloneする。
-ローカルにcloneしたリポジトリ（フォルダ）に、qgis2leafで出力したフォルダを移動する。
+ローカルにcloneしたリポジトリ（フォルダ）に、QGIS2Leafで出力したフォルダを移動する。
 クライアントソフトを起動し、Webにアップロードする。
 
 ![アップロード](pic/leafpic_10.png)

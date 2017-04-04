@@ -1,5 +1,5 @@
 # CZML入門
-本教材は、Cesiumで利用できるCZMLファイルの利用手法について解説したものです。cesium viewerを用いて、データの表示、時間によるアニメーションなどを行います。
+本教材は、Cesiumで利用できるCZMLファイルの利用手法について解説したものです。Cesium viewerを用いて、データの表示、時間によるアニメーションなどを行います。
 コードの解説は[スライド教材]を参照して下さい。
 
 本教材を使用する際は、[利用規約]をご確認いただき、これらの条件に同意された場合にのみご利用下さい。
@@ -129,7 +129,7 @@ var viewer = new Cesium.Viewer('cesiumContainer');
 viewer.dataSources.add(Cesium.CzmlDataSource.load(czml));
 ```
 ## オリジナルのアイコンによるポイント表示
-PowerPointやペイントなどを利用し、図を作成する（拡張子は.png or .jpg）
+PowerPointやペイントなどを利用し、図を作成する（拡張子は`.png` or `.jpg`）
 サイズは200×200ピクセル程度で作成する。
 ![表示](pic/czmlpic_4.png)
 作成した画像をGitHubなどでwebにあげておく。
