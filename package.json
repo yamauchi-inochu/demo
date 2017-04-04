@@ -15,7 +15,8 @@
     "install": "gitbook install",
     "build": "gitbook build",
     "start": "http-server ./_book/ -io -p 8080",
-    "lint": "remark . && textlint . --exclude ./node_modules"
+    "lint": "remark . && textlint ./GISオープン教材 ./*.md",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
