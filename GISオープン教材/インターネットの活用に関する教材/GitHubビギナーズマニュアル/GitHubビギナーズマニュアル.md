@@ -82,7 +82,7 @@ GitHubの操作中に良く出ている言葉を以下にまとめている。
 ## クライアントソフトのインストール
 
 ![クライアントソフト](pic/gitpic_4.png)
-https://desktop.github.comにアクセスし、クライアントソフトをインストールする。
+[https://desktop.github.com](https://desktop.github.com)にアクセスし、クライアントソフトをインストールする。
 クライアントソフトは、他にもあるため、環境や作業感に合わせて使いやすいものを選択する。
 
 ![クライアントソフト](pic/gitpic_5.png)

@@ -188,4 +188,4 @@
 * [教材編集について](GISオープン教材/教材編集について.md)
 * [その他のライセンスについて](GISオープン教材/その他のライセンスについて.md)
 * [よくある質問とエラー](GISオープン教材/よくある質問とエラー/よくある質問とエラー.md)
-* [用語集](https://github.com/yamauchi-inochu/demo/blob/master/GISオープン教材/用語集/用語集.csv)
+* [用語集](https://raw.githubusercontent.com/yamauchi-inochu/demo/master/GIS%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E6%95%99%E6%9D%90/%E7%94%A8%E8%AA%9E%E9%9B%86/%E7%94%A8%E8%AA%9E%E9%9B%86.csv)
