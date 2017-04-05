@@ -83,7 +83,7 @@ OSMの編集にはアカウントが必要となる。
 ![osm](pic/osmpic_4.png)
 背景にBingマップが表示されている。このまま編集することも可能。
 今回は、カスタムから地理院タイルを読み込む。
-地理院タイルのURLやタグについては、http://wiki.openstreetmap.org/wiki/JA:GSImaps/ を参照する。
+地理院タイルのURLやタグについては、http://wiki.openstreetmap.org/wiki/JA:GSImaps を参照する。
 
 
 ### 建物の追加
@@ -111,7 +111,7 @@ OSMロゴ画像をクリック or ウインドウを閉じ、編集を終了す�
 ※　ブラウザで編集しない場合
 
 ![osm](pic/osmpic_8.png)
-[JOSMダウンロードサイト](https://josm.openstreetmap.de/wiki/Ja%3AWikiStart/)にアクセスしJOSMのインストーラをダウンロードする。ダウンロードしたzipを解凍し、.exeファイルをインストールする。
+[JOSMダウンロードサイト](https://josm.openstreetmap.de/wiki/Ja%3AWikiStart)にアクセスしJOSMのインストーラをダウンロードする。ダウンロードしたzipを解凍し、.exeファイルをインストールする。
 
 ### JOSMの設定
 ![osm](pic/osmpic_9.png)
@@ -170,7 +170,7 @@ http://overpass-turbo.eu/ にアクセスし、データをダウンロードす
 
 データを利用する際は、Map data
 © OpenStreetMap contributors　などのクレジットが必要。
-詳細は、[http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/](http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ/) を確認する。
+詳細は、[http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ](http://wiki.openstreetmap.org/wiki/JA:Legal_FAQ) を確認する。
 
 [▲メニューへもどる]
 
