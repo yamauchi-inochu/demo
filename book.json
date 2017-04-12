@@ -5,6 +5,10 @@
     "plugins": [
         "-sharing",
         "splitter",
-        "collapsible-menu"
-    ]
+        "collapsible-menu",
+        "creativecommons"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
 }
