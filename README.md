@@ -1,5 +1,7 @@
 # 「GISオープン教材(試験公開版)」
 
+**このページは、本プロジェクトの旧リポジトリのページです。新リポジトリは、[gis-ogr](https://github.com/gis-oer)になります。**
+
 [![Build Status](https://travis-ci.org/yamauchi-inochu/demo.svg?branch=master)](https://travis-ci.org/yamauchi-inochu/demo)
 
 　科学研究費補助金　基盤研究(A) 「GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」プロジェクトにおいて開発した、**「GISオープン教材(試験公開版)」** の公開用リポジトリです。
