@@ -1,3 +1,1 @@
-# Web GIS 実習用教材
-
-　この教材は、Web GISの実習用教材です。
+この教材は、[新リポジトリ(gis-oer)](https://github.com/gis-oer/gis-oer)へ移行しました。
