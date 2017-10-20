@@ -33,3 +33,8 @@
 
 {% creativecommons type="by-sa" %}
 {% endcreativecommons %}
+
+<a href="https://github.com/yamauchi-inochu/demo/blob/master/README.md">
+  <img src="https://ga-beacon.appspot.com/UA-108377091-1
+/github.com/yamauchi-inochu/demo/blob/master/README.md?pixel"/>
+</a>
