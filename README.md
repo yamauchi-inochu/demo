@@ -6,7 +6,7 @@
 
 　科学研究費補助金　基盤研究(A) 「GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」プロジェクトにおいて開発した、**「GISオープン教材(試験公開版)」** の公開用リポジトリです。
 
-![gis](https://raw.githubusercontent.com/yamauchi-inochu/demo/gh-pages/home/img/top.png)
+![gis](https://raw.githubusercontent.com/gis-oer/gis-oer/master/img/logo/logo_gis-oerbw_512px.png)
 
 ## 本教材について
 　本教材は、GISの実習用教材として、誰もが自由に利用可能な状態で整備したものです。ソフトウェアは、主として無償で利用が可能な「QGIS2.8（LTR版）」を使用しています。
